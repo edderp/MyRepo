@@ -1,0 +1,12 @@
+body {
+  background-color: #496aee;
+}
+
+#content {
+  background-color: aliceblue; 
+  font-family:Verdana, Geneva, Tahoma, sans-serif; 
+  width: 75%; 
+  border: solid 1px aliceblue; 
+  margin: auto;
+  border-radius: 20px;
+}
