@@ -1,9 +1,9 @@
 body {
-  background-color: #051313;
+  background-color: #91b5b5;
 }
 
 #content {
-  background-color: #2fc9ce; 
+  background-color: #dff7f7; 
   font-family:Verdana, Geneva, Tahoma, sans-serif; 
   width: 82%;
   position: absolute;
@@ -45,5 +45,5 @@ body {
 #sidebar {
   height: 100%;
   width: 15%;
-  background-color: #de6b48;
+  background-color: #b5d7d5;
 }
