@@ -5,7 +5,10 @@ body {
 #content {
   background-color: #2fc9ce; 
   font-family:Verdana, Geneva, Tahoma, sans-serif; 
-  width: 75%; 
+  width: 82%;
+  position: absolute;
+  right: 0px; 
+  top: 271px;
   border: solid 1px aliceblue; 
   margin: auto;
   border-radius: 20px;
@@ -18,7 +21,10 @@ body {
 }
 
 .titulo {
-  width: 90%;
+  width: 82%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
   text-align: center;
   font-weight: bold;
   background-image: url('img/856.jpg');
@@ -34,4 +40,10 @@ body {
   height: 300px;
   overflow: hidden;
   object-fit: cover;
+}
+
+#sidebar {
+  height: 100%;
+  width: 15%;
+  background-color: #de6b48;
 }
