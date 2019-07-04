@@ -9,4 +9,29 @@ body {
   border: solid 1px aliceblue; 
   margin: auto;
   border-radius: 20px;
+  padding: 20px;
+}
+
+.imgTitulo {
+  width: 120px;
+  height: 120px; 
+}
+
+.titulo {
+  width: 90%;
+  text-align: center;
+  font-weight: bold;
+  background-image: url('img/856.jpg');
+  font-family:Verdana, Geneva, Tahoma, sans-serif; 
+  border: solid 1px black; 
+  margin: auto;
+  height: 250px;
+  object-fit: cover;
+}
+
+.cropped {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+  object-fit: cover;
 }
